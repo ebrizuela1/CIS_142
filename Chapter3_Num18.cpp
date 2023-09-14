@@ -9,7 +9,7 @@ int main()
     cout << "C++ CIS142 ** Name: Edgar Brizuela **          C++ \n" << endl;
     cout << "C++ CIS142 ** Chapter 3: Expressions and Interactivity  **          C++ \n" << endl;
     cout << "C++ CIS142 ** #18 Interest Earned ** C++ \n" << endl;
-    cout << "C++ CIS142 ** Date Submitted:  9/13/2023 **    C++ \n" << endl;
+    cout << "C++ CIS142 ** Date Submitted:  9/14/2023 **    C++ \n" << endl;
 
     //VARIABLES
     double Principal, Rate, Interest, Total, RateCalc;
